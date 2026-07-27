@@ -7,3 +7,5 @@
 ## 現在学習中
 
 - **Java**
+- **JavaScript**
+- **TypeScript**
